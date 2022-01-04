@@ -5,7 +5,7 @@
 <p>I'm a Security Analyst, Developer, Blogger, Tennis Player...</p>
 <p>My area of interest and expertise involves Open Source Intelligence(OSINT), Network Security, Application Development and also i developed some <a href="https://github.com/maari-krish">Security Tools and Projects.</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p>Also i write a some tech and general <a href ="https://maari-krish.blogspot.com/">Blog</a> too...</p>
-<p>Here's my <a href ="https://drive.google.com/file/d/1_dnttS4SEOx0fmnFSTAYz-9pkNAfXz14/view?usp=sharing">Resume </a> and my <a href ="https://maarikrish.wixsite.com/maari-krish">Portfolio</a> and <a href ="https://drive.google.com/drive/folders/1aGR33f4-ttfWGfJ56Fw6_jqqwBad4DvE">Certifications.</a>
+<p>Here's my <a href ="https://drive.google.com/file/d/16T0Ik9rGa7G6pGATxuYgBEB6XHOU0UoK/view?usp=sharing">Resume </a> and my <a href ="https://maarikrish.wixsite.com/maari-krish">Portfolio</a> and <a href ="https://drive.google.com/drive/folders/1aGR33f4-ttfWGfJ56Fw6_jqqwBad4DvE">Certifications.</a>
 <p> You can also visit my other social media profiles, here:- <br> <a href="https://www.facebook.com/people/Maari-Krish/100004227015987/">Facebook</a> <br> <a href="https://www.linkedin.com/in/maari-krish">LinkedIn</a> <br> <a href="https://www.instagram.com/maari_krish/">Instagram</a> <br> <a href="https://maari-krish.medium.com/">Medium</a> <br> <a href="https://maari-krish-bored.blogspot.com/">General Blog</a> <br> <a href="https://znap.link/maari-krish">Complete Link</a></p>
 
 <span id="a">maari@krish</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
